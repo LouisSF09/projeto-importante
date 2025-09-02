@@ -10,7 +10,7 @@ body {
 
 /* Cabeçalho mais moderno */
 header {
-    background-color: #5F01FA;
+    background-color: #6D61F9;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -29,7 +29,7 @@ header nav {
 
 header nav a {
     display: inline-block;
-    color: #ffeb3b;
+    color: #FFFFFF;
     margin: 0 15px;
     text-decoration: none;
     font-weight: bold;
@@ -39,8 +39,8 @@ header nav a {
 }
 
 header nav a:hover {
-    background-color: #ffeb3b;
-    color: #0d47a1;
+    background-color: #FFFFFF;
+    color: #6D61F9;
 }
 
 /* Conteúdo principal */
@@ -49,12 +49,12 @@ main {
 }
 
 main h1 {
-    color: #0d47a1;
+    color: #6D61F9;
 }
 
 /* Rodapé */
 footer {
-    background-color: #eeeeee;
+    background-color: #000000;
     padding: 15px;
     margin-top: 30px;
     font-size: 0.9em;
