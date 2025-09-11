@@ -92,17 +92,6 @@ footer {
     margin-top: 20px;
 }
 
-.jogo nav a {
-    display: inline-block;
-    color: #000000;
-    margin: 0 15px;
-    text-decoration: none;
-    font-weight: bold;
-    padding: 6px 12px;
-    border-radius: 6px;
-    transition: background-color 0.3s, color 0.3s;
-}
-
 .jogo {
     background-color: #ffffff;
     border-radius: 12px;
@@ -115,6 +104,17 @@ footer {
 .jogo:hover {
     transform: scale(1.05);
     box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+}
+
+.jogo nav a {
+    display: inline-block;
+    color: #000000;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 6px 12px;
+    border-radius: 6px;
+    transition: background-color 0.3s, color 0.3s;
 }
 
 /* Contato do site */
