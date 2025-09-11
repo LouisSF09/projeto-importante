@@ -106,7 +106,7 @@ footer {
     box-shadow: 0 6px 16px rgba(0,0,0,0.4);
 }
 
-.jogo nav a {
+.jogo nav a, nav b, nav c, nav d {
     display: inline-block;
     color: #000000;
     margin: 0 15px;
