@@ -106,7 +106,40 @@ footer {
     box-shadow: 0 6px 16px rgba(0,0,0,0.4);
 }
 
-.jogo nav a, nav b, nav c, nav d {
+.jogo nav a {
+    display: inline-block;
+    color: #000000;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 6px 12px;
+    border-radius: 6px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.jogo nav b {
+    display: inline-block;
+    color: #000000;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 6px 12px;
+    border-radius: 6px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.jogo nav c {
+    display: inline-block;
+    color: #000000;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 6px 12px;
+    border-radius: 6px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.jogo nav d {
     display: inline-block;
     color: #000000;
     margin: 0 15px;
