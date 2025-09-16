@@ -29,9 +29,13 @@
                 echo "<p><strong>Nome:</strong> " . htmlspecialchars($_POST["nome"]) . "</p>";
                 echo "<p><strong>Email:</strong> " . htmlspecialchars($_POST["email"]) . "</p>";
 
+                if (!empty($_POST["mensagem"])) {
+                    echo "<p><strong>Mensagem:</strong> " . nl2br(htmlspecialchars($_POST["mensagem"])) . "</p>";
+                }
+
                 // Exibe os outros campos que o aluno adicionar
                 foreach ($_POST as $campo => $valor) {
-                    if (!in_array($campo, ["nome", "email", "pagamento"])) {
+                    if (!in_array($campo, ["nome", "email", "mensagem"])) {
                         echo "<p><strong>" . ucfirst($campo) . ":</strong> " . htmlspecialchars($valor) . "</p>";
                     }
                 }
