@@ -106,8 +106,8 @@ footer {
     box-shadow: 0 6px 16px rgba(0,0,0,0.4);
 }
 
-/* Contato do site */
-.contato-form {
+/* Carrinho do site */
+.carrinho-form {
     max-width: 400px;
     margin: 20px auto;
     display: flex;
@@ -116,13 +116,13 @@ footer {
     text-align: left;
 }
 
-.contato-form label {
+.carrinho-form label {
     font-weight: bold;
     color: #000000;
 }
 
-.contato-form input,
-.contato-form textarea {
+.carrinho-form input,
+.carrinho-form textarea {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 6px;
@@ -131,7 +131,7 @@ footer {
     box-sizing: border-box;
 }
 
-.contato-form button {
+.carrinho-form button {
     background: #6D61F9;
     color: white;
     padding: 10px;
@@ -142,6 +142,6 @@ footer {
     transition: background 0.3s;
 }
 
-.contato-form button:hover {
+.carrinho-form button:hover {
     background: #9A9AFA;
 }
