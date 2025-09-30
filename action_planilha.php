@@ -8,7 +8,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $data = [
         "nome" => $_POST["nome"] ?? "",
         "email" => $_POST["email"] ?? "",
-        "mensagem" => $_POST["mensagem"] ?? ""
+        "telefone" => $_POST["telefone"] ?? ""
+        "pagamento" => $_POST["pagamento"] ?? ""
         // Adicione outros campos conforme necessário
     ];
 
