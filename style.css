@@ -146,6 +146,7 @@ footer {
     background: #9A9AFA;
 }
 
+/*Tabela do site com informações da planilha*/
 .table-wrap {
   max-width: 100%;
   overflow-x: auto;
@@ -162,7 +163,7 @@ footer {
 }
 
 .dados-planilha th {
-  background: linear-gradient(90deg, #0d47a1, #1976d2);
+  background: #6D61F9;
   color: #fff;
   text-align: left;
   padding: 10px;
