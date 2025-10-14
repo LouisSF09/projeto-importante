@@ -163,7 +163,7 @@ footer {
 }
 
 .dados-planilha th {
-  background: #6D61F9;
+  background: linear-gradient(90deg, #6D61F9, #9A9AFA);
   color: #fff;
   text-align: left;
   padding: 10px;
