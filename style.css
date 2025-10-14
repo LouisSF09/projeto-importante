@@ -114,6 +114,7 @@ footer {
     flex-direction: column;
     gap: 15px;
     text-align: left;
+    align: center;
 }
 
 .carrinho-form label {
