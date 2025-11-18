@@ -255,6 +255,11 @@ footer {
   background-color: #0b1220;
 }
 
+.tema-escuro main {
+  background-color: #0b1220;
+  color: #e9eef5;
+}
+
 .tema-escuro footer {
   background-color: #0b1220;
   color: #e9eef5;
