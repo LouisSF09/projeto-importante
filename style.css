@@ -257,7 +257,7 @@ footer {
 
 .tema-escuro body {
   background-color: #0b1220;
-  color: #e9eef5;
+
 }
 
 .tema-escuro footer {
@@ -275,7 +275,6 @@ footer {
 }
 
 .tema-escuro .bloco-item h2 {
-  background: #111821;
   color: #8db0ff;
 }
 
