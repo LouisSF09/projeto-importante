@@ -285,10 +285,14 @@ footer {
 }
 
 .tema-escuro .dados-planilha tr:nth-child(even) {
-    background: ##111821;
+    background: #111821;
 }
 
 .tema-escuro .dados-planilha {
+    background: #111821;
+}
+
+.carrinho-form button {
     background: #111821;
 }
 
