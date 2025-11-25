@@ -279,8 +279,12 @@ footer {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-.tema-escuro .dados-planilha {
+.tema-escuro .dados-planilha tr:nth-child(even) {
   background: #111821;
+}
+
+.tema-escuro .dados-planilha tr:hover {
+  background: #202D3E;
 }
 
 .tema-escuro .bloco-item {
