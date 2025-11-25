@@ -296,6 +296,10 @@ footer {
     background: #111821;
 }
 
+.carrinho-form button:hover {
+    background: #2a3645;
+}
+
 .tema-escuro .bloco-item {
   border-color: #2a3645;
 }
