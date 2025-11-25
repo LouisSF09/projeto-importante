@@ -292,11 +292,11 @@ footer {
     background: #111821;
 }
 
-.carrinho-form button {
+.tema-escuro .carrinho-form button {
     background: #111821;
 }
 
-.carrinho-form button:hover {
+.tema-escuro .carrinho-form button:hover {
     background: #2a3645;
 }
 
