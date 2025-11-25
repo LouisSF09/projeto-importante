@@ -279,7 +279,7 @@ footer {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-.tema-escuro .dados-planilha tr:nth-child(even) {
+.tema-escuro .dados-planilha {
   background: #111821;
 }
 
