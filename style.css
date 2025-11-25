@@ -288,14 +288,14 @@ footer {
 } */
 .tema-escuro .dados-planilha th {
   background: #111821;
-  color: #000;
+  color: #fff;
 }
 .tema-escuro. dados-planilha tr:nth-child(even) {
-  background: ##202D3E;
+  background: #202D3E;
 }
 
 .tema-escuro .dados-planilha tr:hover {
-  background: ##2F425A;
+  background: #2F425A;
 }
 
 .tema-escuro .bloco-item {
