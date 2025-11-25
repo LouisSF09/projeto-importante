@@ -274,6 +274,10 @@ footer {
   border-color: #2a3645;
 }
 
+.tema-escuro .jogo {
+  border-color: #2a3645;
+}
+
 .tema-escuro .bloco-item h2 {
   color: #8db0ff;
 }
